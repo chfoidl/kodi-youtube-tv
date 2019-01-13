@@ -1,0 +1,18 @@
+# Kodi Media Center language file
+# Addon Name: youtube-tv
+# Addon id: script.video.youtube-tv
+# Addon Provider: chrisxf
+msgid ""
+msgstr ""
+
+msgctxt "#30000"
+msgid "General"
+msgstr ""
+
+msgctxt "#30001"
+msgid "Chrome Path"
+msgstr ""
+
+msgctxt "#30002"
+msgid "YouTube URL"
+msgstr ""

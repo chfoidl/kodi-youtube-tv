@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="30000">
+        <setting id="CHROME_PATH" type="file" label="30001" />
+        <setting id="BROWSER_URL" type="text" label="30002" default="https://www.youtube.com/tv"/>
+    </category>
+</settings>
